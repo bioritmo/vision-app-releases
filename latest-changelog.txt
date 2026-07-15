@@ -1,1 +1,2 @@
-Melhorias no visual do workout
+Melhorias Visuais
+Melhorias de desempenho
