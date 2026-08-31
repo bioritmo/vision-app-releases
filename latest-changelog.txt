@@ -1,2 +1,1 @@
-Melhorias visuais de acordo com o tema e mudança de icone
-Melhorias na detecção de banheiros e Melhorias visuais de smartfit
+Melhorias na detecção de banheiros
