@@ -1,1 +1,1 @@
-Melhorias nas câmeras USB
+Melhorias na conexão de câmeras usb e travamentos
