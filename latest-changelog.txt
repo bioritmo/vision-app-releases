@@ -1,1 +1,2 @@
-Melhorias na conexão de câmeras usb e travamentos
+Melhorias na câmera
+Possibilidade de rotacionar a câmera
